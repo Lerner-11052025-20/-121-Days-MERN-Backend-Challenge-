@@ -1,12 +1,10 @@
-# -121-Days-MERN-Backend-Challenge-
-Daily backend development journey using Node.js, Express, MongoDB &amp; REST APIs. Building real-world projects and mastering MERN backend in 121 days.
-
 # ⚙️📦🚀 121 Days MERN Backend Challenge 🔥💻
 
 Welcome to my **121-Day Backend Development Journey** where I am building strong backend skills with consistency and real-world practice.
 
 ## 🎯 Focus Technologies
 
+Daily backend development journey using Node.js, Express, MongoDB &amp; REST APIs. Building real-world projects and mastering MERN backend in 121 days.
 This challenge is focused on:
 
 * 🟢 Node.js
