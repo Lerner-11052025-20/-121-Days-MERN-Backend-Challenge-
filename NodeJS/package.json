@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "figlet": "^1.10.0"
+    "random": "^5.4.1"
   }
 }
