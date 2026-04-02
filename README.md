@@ -2,7 +2,7 @@
 
 Welcome to my **121-Day Backend Development Journey** where I am building strong backend skills with consistency and real-world practice.
 
-## 🎯 Focus Technologies
+## 🎯 Focus Technologies on based on MERN stack
 
 Daily backend development journey using Node.js, Express, MongoDB &amp; REST APIs. Building real-world projects and mastering MERN backend in 121 days.
 This challenge is focused on:
