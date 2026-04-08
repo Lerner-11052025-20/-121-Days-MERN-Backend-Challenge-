@@ -8,7 +8,7 @@
 
 This documentation suite provides complete coverage of the **CloudPulse AI v2.0** project—a sophisticated, enterprise-grade cloud infrastructure monitoring and auto-scaling platform.
 
-### 📑 Documentation Files
+### 📑 Documentation File
 
 | Document | Pages | Topics | Audience |
 |----------|-------|--------|----------|
